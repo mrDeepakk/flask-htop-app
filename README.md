@@ -30,7 +30,6 @@ python app.py
 1. Copy the **public preview URL** for **Port 5000** (e.g., `https://your-codespace-id-5000.githubpreview.dev/htop`).
 2. Open it in an **Incognito Tab** to verify the output.
 
-## **Expected Output**
 
 
 Happy coding! 🚀
